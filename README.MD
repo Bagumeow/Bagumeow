@@ -117,8 +117,8 @@ If you want to know more about me, you can visit my [LinkedIn](https://www.linke
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bagumeow's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bagumeow&show_icons=true&count_private=true&theme=synthwave&border_color=7cebf5&border_radius=10&show_icons=true" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bagumeow's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagumeow&langs_count=8&layout=compact&theme=synthwave&border_color=7cebf5&border_radius=10&show_icons=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bagumeow's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=bagumeow&show_icons=true&count_private=true&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Bagumeow's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagumeow&langs_count=8&layout=compact&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
@@ -130,13 +130,13 @@ If you want to know more about me, you can visit my [LinkedIn](https://www.linke
 <!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/Bagumeow/IUH_Chatbot"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=IUH_chatbot&theme=synthwave&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Bagumeow/InnoGreen"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=InnoGreen&theme=synthwave&border_color=7cebf5&border_radius=10&show_icons=trueshow_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Bagumeow/IUH_Chatbot"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=IUH_chatbot&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Bagumeow/InnoGreen"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=InnoGreen&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=trueshow_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/Bagumeow/MachineTransformer"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=MachineTransformer&theme=synthwave&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Bagumeow/Bagumeow"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=bagumeow&theme=synthwave&border_color=7cebf5&border_radius=10&show_icons=true"></a>
+    <a href="https://github.com/Bagumeow/MachineTransformer"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=MachineTransformer&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Bagumeow/Bagumeow"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=bagumeow&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true"></a>
   </p>
 </p>
 
@@ -150,7 +150,7 @@ If you want to know more about me, you can visit my [LinkedIn](https://www.linke
 <!-- last activity section -->
 
 ## Activity Graph
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bagumeow&bg_color=f5a8d1&color=a4139b&line=c733bd&point=712d2d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bagumeow&bg_color=3b7970&color=f7f7f7&line=ff7aed&point=ff6e3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br>
 
 <!-- last refresh of readme section -->
