@@ -141,7 +141,7 @@ If you want to know more about me, you can visit my [LinkedIn](https://www.linke
 <p align="center">&#8192;</p>
 
 <p align="left">
-  <a href="https://github.com/Bagumeow?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/Bagumeow?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-7cebf5?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 <!-- last activity section -->
