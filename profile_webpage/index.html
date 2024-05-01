@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>GitHub Description GIF</title>
+</head>
+<body>
+
+    <div class="frame">
+        <div class="output">
+          <h1><div id="app"></div></h1>
+          <h2>Loading profile <span id="loading"></span></h2>
+          <h3>[@Bagumeow]<br/></h3>
+        </div>
+        <div class="scanlines"></div>
+    </div>
+
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hack-font@3/build/web/hack.css">
+    <script src="https://unpkg.com/typewriter-effect@latest/dist/core.js"></script>
+
+    <script>
+        var app = document.getElementById('app');
+        var loading = document.getElementById('loading');
+
+        var typewriter = new Typewriter(app, {
+            loop: true,
+            delay: 150
+        });
+
+        typewriter.typeString("Hi, I'm  Lê Thành Nghĩa")
+            .pauseFor(1)
+            .pauseFor(100)
+            .deleteAll()
+            .typeString('<strong>Welcome to my GitHub</strong>')
+            .pauseFor(100)
+            .start();
+
+        var typewriter = new Typewriter(loading, {
+            loop: false,
+            cursor: '.',
+            delay: 500
+        });
+
+        typewriter.typeString('...')
+            .pauseFor(100)
+            .start();
+      </script>
+</body>
+</html>
