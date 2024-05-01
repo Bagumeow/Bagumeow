@@ -89,8 +89,7 @@ If you want to know more about me, you can visit my [LinkedIn](https://www.linke
 
 <h1 align="center"> Languages/Frameworks I'm learning: </h1>
 <p align="center">
-  <code><a href="https://airflow.apache.org/"><img alt="Airflow" title="Airflow" src="./images/airflow.png
-  " height="42"></a></code>
+  <code><a href="https://airflow.apache.org/"><img alt="Airflow" title="Airflow" src="./images/apache_airflow.png" height="42"></a></code>
   <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./images/django.png" height="42"></a></code>
   <!-- pyspark -->
   <code><a href="https://spark.apache.org/docs/latest/api/python/index.html"><img alt="Pyspark" title="Pyspark" src="./images/pyspark.png" height="42"></a></code>
