@@ -128,12 +128,12 @@ If you want to know more about me, you can visit my [LinkedIn](https://www.linke
 <p align="center">
   <p style="widht: 100%;" align="center">
     <a href="https://github.com/Bagumeow/IUH_Chatbot"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=IUH_chatbot&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Bagumeow/InnoGreen"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=InnoGreen&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=trueshow_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Bagumeow/Sentiment_Facebook_BE"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=Sentiment_Facebook_BE&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
     <a href="https://github.com/Bagumeow/MachineTransformer"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=MachineTransformer&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Bagumeow/Bagumeow"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=bagumeow&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true"></a>
+    <a href="https://github.com/Bagumeow/Sentiment_Facebook_FE"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=Sentiment_Facebook_FE&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true"></a>
   </p>
 </p>
 
