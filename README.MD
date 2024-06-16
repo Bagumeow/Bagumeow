@@ -24,7 +24,7 @@
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-I am Lê Thành Nghĩa better known as <b>Bagumeow</b>🕵🏼‍♂️ <br />
+My name is Lê Thành Nghãi *aka*  <b>Bagumeow</b>🕵🏼‍♂️ <br />
 I am a Senior student with a strong passion for artificial intelligence, especially generative AI. I hope to contribute to the AI community as a whole, as well.
 
 If you want to know more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/bagumeow/) profile or my CV [here](./CV/CV_LeThanhNghia_4_2024.pdf).
@@ -128,11 +128,11 @@ If you want to know more about me, you can visit my [LinkedIn](https://www.linke
 <p align="center">
   <p style="widht: 100%;" align="center">
     <a href="https://github.com/Bagumeow/IUH_Chatbot"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=IUH_chatbot&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/Bagumeow/Sentiment_Facebook_BE"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=Sentiment_Facebook_BE&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Bagumeow/Routing_Problem"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=Routing_Problem&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
   </p>
   <p align="center">&#8192;</p>
   <p style="widht: 100%;" align="center">
-    <a href="https://github.com/Bagumeow/MachineTransformer"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=MachineTransformer&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
+    <a href="https://github.com/Bagumeow/IUH_FIT_Chatbot"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=IUH_FIT_Chatbot&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
     <a href="https://github.com/Bagumeow/Sentiment_Facebook_FE"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=Sentiment_Facebook_FE&theme=cobalt&border_color=7cebf5&border_radius=10&show_icons=true"></a>
   </p>
 </p>
