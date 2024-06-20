@@ -24,7 +24,7 @@
 <!-- Description about me -->
 <h2 align="center"> 🤔 About me 👨‍💻 </h2>
 
-My name is Lê Thành Nghãi *aka*  <b>Bagumeow</b>🕵🏼‍♂️ <br />
+My name is Lê Thành Nghĩa *aka*  <b>Bagumeow</b>🕵🏼‍♂️ <br />
 I am a Senior student with a strong passion for artificial intelligence, especially generative AI. I hope to contribute to the AI community as a whole, as well.
 
 If you want to know more about me, you can visit my [LinkedIn](https://www.linkedin.com/in/bagumeow/) profile or my CV [here](./CV/CV_LeThanhNghia_4_2024.pdf).
@@ -42,7 +42,7 @@ If you want to know more about me, you can visit my [LinkedIn](https://www.linke
           🔭 I’m currently studying at <b>IUH</b>
         </li>
         <li>
-          🌱 I’m currently working at NinjaVan Vietnam as a Data Scientist intern
+          🌱 I’m currently working at Moso  as position AI Developer.
         <li>
            👨‍🔬I have a great passion for Linear Algebra 
         </li>
