@@ -1,7 +1,7 @@
 # 👋 Hi there! I'm Bagumeow
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=35&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=AI+Developer+%26+ML+Enthusiast;Generative+AI+Researcher;Open+Source+Contributor;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src=images/profile_github.gif />
 </div>
 
 <p align="center">
