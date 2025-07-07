@@ -22,7 +22,7 @@ class AIEnthusiast:
         self.university = "IUH"
         self.location = "Vietnam"
         self.passions = ["Generative AI", "Linear Algebra", "Knowledge Sharing"]
-        self.currently_learning = ["Apache Airflow", "Django", "PySpark"]
+        self.currently_learning = ["K8s, Google cloud"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build amazing AI solutions together!")
