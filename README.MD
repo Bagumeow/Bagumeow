@@ -73,8 +73,11 @@ me.say_hi()
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bagumeow&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=7c3aed&title_color=7c3aed&icon_color=06b6d4&text_color=f0f6fc&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagumeow&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&text_color=f0f6fc&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagumeow&theme=tokyonight&border=7c3aed&fire=7c3aed&ring=06b6d4&currStreakLabel=06b6d4&sideLabels=f0f6fc&dates=8b949e&background=0d1117" alt="GitHub Streak" />
 </div>
 
 
