@@ -5,9 +5,9 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bagumeow&label=Profile%20views&color=7c3aed&style=flat-square" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/bagumeow?label=Followers&style=flat-square&color=7c3aed&labelColor=1a1a1a" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/bagumeow?label=Stars&style=flat-square&color=7c3aed&labelColor=1a1a1a" alt="GitHub stars" />
+  <img src="https://komarev.com/ghpvc/?username=bagumeow&label=Profile%20views&color=71dcff&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/bagumeow?label=Followers&style=flat-square&color=71dcff&labelColor=1a1a1a" alt="GitHub followers" />
+  <img src="https://img.shields.io/github/stars/bagumeow?label=Stars&style=flat-square&color=71dcff&labelColor=1a1a1a" alt="GitHub stars" />
 </p>
 
 ## 🌟 About Me
