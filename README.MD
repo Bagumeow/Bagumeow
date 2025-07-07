@@ -18,10 +18,11 @@ class AIEnthusiast:
         self.name = "Lê Thành Nghĩa"
         self.username = "Bagumeow"
         self.role = "AI Developer"
-        self.company = "Moso"
+        self.company = "Loan Factory"
         self.university = "IUH"
+        self.gpa = 3.65
         self.location = "Vietnam"
-        self.passions = ["Generative AI", "Linear Algebra", "Knowledge Sharing"]
+        self.passions = ["Generative AI", "Linear Algebra"]
         self.currently_learning = ["K8s, Google cloud"]
         
     def say_hi(self):
@@ -39,6 +40,7 @@ me.say_hi()
 - 🥰 **Love to** share knowledge and contribute to the AI community
 - 👨🏻‍💻 **Most projects** are available on [GitHub](https://github.com/Bagumeow?tab=repositories)
 - 📫 **How to reach me** [LinkedIn](https://www.linkedin.com/in/bagumeow/) | [Email](mailto:lethanhnghia147@gmail.com)
+- 📃 **My resume** You can check my resume in [Here](CV/CV_LeThanhNghia_4_2024.pdf)
 
 ## 🛠️ Tech Stack
 
