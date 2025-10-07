@@ -79,7 +79,8 @@ me.say_hi()
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagumeow&theme=tokyonight&border=7c3aed&fire=7c3aed&ring=06b6d4&currStreakLabel=06b6d4&sideLabels=f0f6fc&dates=8b949e&background=0d1117" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagumeow&theme=tokyonight&border=7c3aed&fire=7c3aed&ring=06b6d4&currStreakLabel=06b6d4&sideLabels=f0f6fc&dates=8b949e&background=0d1117" alt="Personal Profile Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagumoso&theme=tokyonight&border=7c3aed&fire=7c3aed&ring=06b6d4&currStreakLabel=06b6d4&sideLabels=f0f6fc&dates=8b949e&background=0d1117" alt="Work Profile Streak"/>
 </div>
 
 ## 📈 Combined GitHub Activity
