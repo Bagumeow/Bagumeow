@@ -82,14 +82,13 @@ me.say_hi()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagumeow&theme=tokyonight&border=7c3aed&fire=7c3aed&ring=06b6d4&currStreakLabel=06b6d4&sideLabels=f0f6fc&dates=8b949e&background=0d1117" alt="GitHub Streak" />
 </div>
 
-## Work Profile (@Bagumoso)
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bagumoso&show_icons=true&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&text_color=f0f6fc&bg_color=0d1117"/>
-</div>
+## 📈 Combined GitHub Activity
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagumoso&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&text_color=f0f6fc&bg_color=0d1117"/>
-</div>
+### Personal Profile (@Bagumeow)
+![Bagumeow's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bagumeow&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc)
+
+### Work Profile (@Bagumoso)
+![Bagumoso's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bagumoso&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc)
 
 ## 🏆 Featured Projects
 
