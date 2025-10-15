@@ -23,7 +23,6 @@ class AIEnthusiast:
         self.gpa = 3.65
         self.location = "Vietnam"
         self.passions = ["Generative AI", "Linear Algebra"]
-        self.currently_learning = ["K8s, Google cloud"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's connect and build amazing AI solutions together!")
@@ -34,14 +33,14 @@ me.say_hi()
 
 ## 🚀 Quick Facts
 
+- 🛠️ **This repo have MCP tool** to automatically generate commit messages [check in here](mcp/mcp_server.py)
 - 🔭 **Currently studying at** Industrial University of Ho Chi Minh City (IUH)
-- 🌱 **Working at** Moso as AI Developer
+- 🌱 **Working at** Moso as AI Developer here a [Github work profile](https://github.com/bagumoso)
 - 👨‍🔬 **Passionate about** Linear Algebra and its applications in AI
 - 🥰 **Love to** share knowledge and contribute to the AI community
 - 👨🏻‍💻 **Most projects** are available on [GitHub](https://github.com/Bagumeow?tab=repositories)
 - 📫 **How to reach me** [LinkedIn](https://www.linkedin.com/in/bagumeow/) | [Email](mailto:lethanhnghia147@gmail.com)
-- 📃 **My resume** You can check my resume in [Here](CV/CV_LeThanhNghia_4_2024.pdf)
-
+- 📃 **My resume** You can check my resume in [Here](CV/CV_LeThanhNghia_Oct_2025.pdf)
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks I'm Proficient In:
@@ -52,36 +51,18 @@ me.say_hi()
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-</p>
-
-### Currently Learning:
-<p align="left">
-  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Apache Airflow" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="Apache Spark" />
-</p>
-
-### Tools & Environment:
-<p align="left">
-  <img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Google%20BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
 </p>
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagumeow&layout=compact&langs_count=8&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&text_color=f0f6fc&bg_color=0d1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagumeow&theme=tokyonight&border=7c3aed&fire=7c3aed&ring=06b6d4&currStreakLabel=06b6d4&sideLabels=f0f6fc&dates=8b949e&background=0d1117" alt="Personal Profile Streak" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagumoso&theme=tokyonight&border=7c3aed&fire=7c3aed&ring=06b6d4&currStreakLabel=06b6d4&sideLabels=f0f6fc&dates=8b949e&background=0d1117" alt="Work Profile Streak"/>
-</div>
 
 ## 📈 Combined GitHub Activity
 
@@ -94,7 +75,11 @@ me.say_hi()
 ## 🏆 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/Bagumeow/ViQwen_MoE_Llava_Training">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=ViQwen_MoE_Llava_Training&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&text_color=f0f6fc&bg_color=0d1117" />
+  </a>
+
   <a href="https://github.com/Bagumeow/IUH_Chatbot">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=IUH_Chatbot&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&text_color=f0f6fc&bg_color=0d1117" />
   </a>
-  <a href="https://github.com/Bagumeow
+</div>
