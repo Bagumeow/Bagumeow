@@ -1,0 +1,42 @@
+name: Generate Contribute Snake
+
+on:
+    schedule:
+        - cron: "0 0 * * *"
+    workflow_dispatch:
+    push:
+        branches:
+        - master
+
+jobs:
+  GenerateMainAccount:
+    permissions: 
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    
+    steps:
+      - name: Generate main account
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake-${{ github.repository_owner }}.svg
+            dist/github-contribution-grid-snake-dark-${{ github.repository_owner }}.svg?palette=github-dark
+
+      - name: Generate work account
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ secrets.WORK_GITHUB_USERNAME }}
+          outputs: |
+            dist/github-contribution-grid-snake-${{ secrets.WORK_GITHUB_USERNAME }}.svg
+            dist/github-contribution-grid-snake-dark-${{ secrets.WORK_GITHUB_USERNAME }}.svg?palette=github-dark
+          
+      - name: Push to generate snake branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: generate-contribution-snake
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
