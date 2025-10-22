@@ -83,3 +83,19 @@ me.say_hi()
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=IUH_Chatbot&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&text_color=f0f6fc&bg_color=0d1117" />
   </a>
 </div>
+
+## 🐍 Contribution Snake
+
+### Personal Profile (@Bagumeow)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-dark-Bagumeow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-Bagumeow.svg" />
+  <img alt="Bagumeow-GitHub-contribution-snake-animation" src="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-Bagumeow.svg" />
+</picture>
+
+### Work Profile (@Bagumoso)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-dark-Bagumoso.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-Bagumoso.svg" />
+  <img alt="Bagumoso-GitHub-contribution-snake-animation" src="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-Bagumoso.svg" />
+</picture>
