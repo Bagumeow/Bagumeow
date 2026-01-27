@@ -40,7 +40,7 @@ me.say_hi()
 - 🥰 **Love to** share knowledge and contribute to the AI community
 - 👨🏻‍💻 **Most projects** are available on [GitHub](https://github.com/Bagumeow?tab=repositories)
 - 📫 **How to reach me** [LinkedIn](https://www.linkedin.com/in/bagumeow/) | [Email](mailto:lethanhnghia147@gmail.com)
-- 📃 **My resume** You can check my resume in [Here](CV/CV_LeThanhNghia_Oct_2025.pdf)
+- 📃 **My resume** You can check my resume in [Here](CV/CV_LeThanhNghia_Jan_2026.pdf)
 ## 🛠️ Tech Stack
 
 ### Languages & Frameworks I'm Proficient In:
