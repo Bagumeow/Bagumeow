@@ -20,7 +20,7 @@ class AIEnthusiast:
         self.role = "AI Developer"
         self.company = "Loan Factory"
         self.university = "IUH"
-        self.gpa = 3.65
+        self.gpa = 3.66
         self.location = "Vietnam"
         self.passions = ["Generative AI", "Linear Algebra"]
         
