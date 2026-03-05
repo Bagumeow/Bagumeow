@@ -76,11 +76,11 @@ me.say_hi()
 
 <div align="center">
   <a href="https://github.com/Bagumeow/ViQwen_MoE_Llava_Training">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=ViQwen_MoE_Llava_Training&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&text_color=f0f6fc&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bagumeow&repo=ViQwen_MoE_Llava_Training&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&text_color=f0f6fc&bg_color=0d1117" />
   </a>
 
   <a href="https://github.com/Bagumeow/IUH_Chatbot">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bagumeow&repo=IUH_Chatbot&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&text_color=f0f6fc&bg_color=0d1117" />
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=bagumeow&repo=IUH_Chatbot&theme=tokyonight&border_color=7c3aed&title_color=7c3aed&text_color=f0f6fc&bg_color=0d1117" />
   </a>
 </div>
 
