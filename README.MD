@@ -85,12 +85,24 @@ class NghiaLe:
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bagumeow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=f0f6fc" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bagumeow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=f0f6fc" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=bagumeow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=f0f6fc" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=bagumeow&show_icons=true&theme=default&hide_border=true&title_color=7c3aed&icon_color=06b6d4" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bagumeow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=f0f6fc" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bagumeow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=f0f6fc" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bagumeow&layout=compact&theme=default&hide_border=true&title_color=7c3aed" />
+    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bagumeow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=f0f6fc" alt="Top Languages" />
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagumeow&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bagumeow&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=bagumeow&theme=default&hide_border=true&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagumeow&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=06b6d4&currStreakLabel=06b6d4" alt="GitHub Streak" />
+  </picture>
 </div>
 
 ---
@@ -99,7 +111,11 @@ class NghiaLe:
 
 ### Personal Profile (@Bagumeow)
 
-![Bagumeow's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bagumeow&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bagumeow&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=bagumeow&theme=minimal&hide_border=true&color=7c3aed&line=06b6d4&point=1a1a1a" />
+  <img alt="Bagumeow's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=bagumeow&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-dark-Bagumeow.svg" />
@@ -109,7 +125,11 @@ class NghiaLe:
 
 ### Work Profile (@NghiaLe-LF)
 
-![NghiaLe-LF's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NghiaLe-LF&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=NghiaLe-LF&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=NghiaLe-LF&theme=minimal&hide_border=true&color=7c3aed&line=06b6d4&point=1a1a1a" />
+  <img alt="NghiaLe-LF's GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NghiaLe-LF&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-dark-NghiaLe-LF.svg" />
