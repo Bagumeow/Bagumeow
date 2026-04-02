@@ -35,7 +35,7 @@ me.say_hi()
 
 - 🛠️ **This repo have MCP tool** to automatically generate commit messages [check in here](mcp/mcp_server.py)
 - 🔭 **Currently studying at** Industrial University of Ho Chi Minh City (IUH)
-- 🌱 **Working at** Moso as AI Developer here a [Github work profile](https://github.com/bagumoso)
+- 🌱 **Working at** Loan Factory as AI Developer here a [Github work profile](https://github.com/NghiaLe-LF)
 - 👨‍🔬 **Passionate about** Linear Algebra and its applications in AI
 - 🥰 **Love to** share knowledge and contribute to the AI community
 - 👨🏻‍💻 **Most projects** are available on [GitHub](https://github.com/Bagumeow?tab=repositories)
@@ -69,8 +69,8 @@ me.say_hi()
 ### Personal Profile (@Bagumeow)
 ![Bagumeow's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bagumeow&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc)
 
-### Work Profile (@Bagumoso)
-![Bagumoso's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bagumoso&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc)
+### Work Profile (@NghiaLe-LF)
+![NghiaLe-LF's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NghiaLe-LF&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc)
 
 ## 🏆 Featured Projects
 
@@ -93,9 +93,9 @@ me.say_hi()
   <img alt="Bagumeow-GitHub-contribution-snake-animation" src="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-Bagumeow.svg" />
 </picture>
 
-### Work Profile (@Bagumoso)
+### Work Profile (@NghiaLe-LF)
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-dark-Bagumoso.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-Bagumoso.svg" />
-  <img alt="Bagumoso-GitHub-contribution-snake-animation" src="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-Bagumoso.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-dark-NghiaLe-LF.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-NghiaLe-LF.svg" />
+  <img alt="NghiaLe-LF-GitHub-contribution-snake-animation" src="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-NghiaLe-LF.svg" />
 </picture>
