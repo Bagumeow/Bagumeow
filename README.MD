@@ -1,11 +1,14 @@
 <div align="center">
   <img src="images/profile_github.gif" width="100%" />
 
-  # Nghia Le | Middle AI Engineer
+  # Le Thanh Nghia | Middle AI Engineer
+
+  *Specializing in LLMs, RAG pipelines, and production-ready AI systems for financial applications*
 
   <p>
     <a href="https://www.linkedin.com/in/bagumeow/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:lethanhnghia147@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://www.kaggle.com/lethanhnghia"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
     <a href="https://github.com/NghiaLe-LF"><img src="https://img.shields.io/badge/Work_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub" /></a>
     <a href="CV/CV_LeThanhNghia_Jan_2026.pdf"><img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
   </p>
@@ -21,14 +24,26 @@
 
 ```python
 class NghiaLe:
-    role      = "Middle AI Engineer | AI Developer at Loan Factory"
-    education = "Industrial University of Ho Chi Minh City (IUH) | GPA: 3.66"
-    focus     = ["Generative AI", "LLM Fine-tuning", "MCP Tools", "Linear Algebra"]
-    fun_fact  = "I built an MCP server that writes my commit messages for me"
+    role       = "Middle AI Engineer @ Loan Factory"
+    education  = "B.Eng Data Science, IUH | GPA: 3.66/4.00"
+    experience = ["Loan Factory (Jul 2024-Present)", "Ninja Van Vietnam (Nov 2023-Jun 2024)"]
+    focus      = ["LLM Agents & RAG", "LangChain/LangGraph", "MCP Tools", "Computer Vision"]
+    languages  = ["Python", "Java", "C++", "SQL"]
+    english    = "TOEIC 800"
+    fun_fact   = "I built an MCP server that writes my commit messages for me"
 
 >>> NghiaLe().fun_fact
 'I built an MCP server that writes my commit messages for me'
 ```
+
+---
+
+## What I Build
+
+- **RAG Pipelines** - Document understanding and information extraction for loan processing
+- **LLM Agent Systems** - Graph-based orchestration with LangChain & LangGraph
+- **AI Inference Services** - Async backend services with Flask & Celery, deployed on K8s
+- **MCP Tools** - Custom Model Context Protocol servers ([check mine](mcp/mcp_server.py))
 
 ---
 
@@ -42,22 +57,26 @@ class NghiaLe:
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 <img src="https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
 
-**Infrastructure & DevOps**
+**Backend & Database**
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+**DevOps & Cloud**
 
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
 <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
 <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery" />
-
-**Tools & Others**
-
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-<img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
-<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
 
 </div>
 
@@ -78,9 +97,7 @@ class NghiaLe:
 
 ## Activity
 
-<details>
-<summary><b>Personal Profile (@Bagumeow)</b></summary>
-<br/>
+### Personal Profile (@Bagumeow)
 
 ![Bagumeow's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bagumeow&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc)
 
@@ -90,11 +107,7 @@ class NghiaLe:
   <img alt="Bagumeow contribution snake" src="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-Bagumeow.svg" />
 </picture>
 
-</details>
-
-<details>
-<summary><b>Work Profile (@NghiaLe-LF)</b></summary>
-<br/>
+### Work Profile (@NghiaLe-LF)
 
 ![NghiaLe-LF's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NghiaLe-LF&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc)
 
@@ -103,8 +116,6 @@ class NghiaLe:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-NghiaLe-LF.svg" />
   <img alt="NghiaLe-LF contribution snake" src="https://raw.githubusercontent.com/Bagumeow/Bagumeow/refs/heads/generate-contribution-snake/github-contribution-grid-snake-NghiaLe-LF.svg" />
 </picture>
-
-</details>
 
 ---
 
