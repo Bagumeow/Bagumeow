@@ -69,7 +69,7 @@ me.say_hi()
 ### Personal Profile (@Bagumeow)
 ![Bagumeow's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=bagumeow&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc)
 
-### Work Profile (@NghiaLe-LF)
+### Work Profile (@NghiaLe-LF) 
 ![NghiaLe-LF's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NghiaLe-LF&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=7c3aed&line=06b6d4&point=f0f6fc)
 
 ## 🏆 Featured Projects
