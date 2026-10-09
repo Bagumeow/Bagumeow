@@ -1,16 +1,16 @@
 <div align="center">
-  <img src="images/profile_github.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Le%20Thanh%20Nghia&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Middle%20AI%20Engineer%20%40%20Loan%20Factory&descSize=18&descAlignY=60" width="100%" alt="Le Thanh Nghia — Middle AI Engineer @ Loan Factory" />
 
-  # Le Thanh Nghia | Middle AI Engineer
+  <p><code>~/bagumeow $ whoami</code></p>
 
-  *Specializing in LLMs, RAG pipelines, and production-ready AI systems for financial applications*
+  <p>I build <b>LLM agents</b>, <b>RAG pipelines</b> and <b>production AI services</b> for financial applications.</p>
 
   <p>
     <a href="https://www.linkedin.com/in/bagumeow/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:lethanhnghia147@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
     <a href="https://www.kaggle.com/lethanhnghia"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
     <a href="https://github.com/NghiaLe-LF"><img src="https://img.shields.io/badge/Work_Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="Work GitHub" /></a>
-    <a href="CV/CV_LeThanhNghia_Jan_2026.pdf"><img src="https://img.shields.io/badge/Resume-FF6B6B?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
+    <a href="CV/CV_LeThanhNghia_Jan_2026.pdf"><img src="https://img.shields.io/badge/Résumé_(PDF)-6D28D9?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" /></a>
   </p>
 
   <p>
@@ -22,67 +22,66 @@
 
 ---
 
-```python
-class NghiaLe:
-    role       = "Middle AI Engineer @ Loan Factory"
-    education  = "B.Eng Data Science, IUH | GPA: 3.66/4.00"
-    experience = ["Loan Factory (Jul 2024-Present)", "Ninja Van Vietnam (Nov 2023-Jun 2024)"]
-    focus      = ["LLM Agents & RAG", "LangChain/LangGraph", "MCP Tools", "Computer Vision"]
-    languages  = ["Python", "Java", "C++", "SQL"]
-    english    = "TOEIC 800"
-    fun_fact   = "I built an MCP server that writes my commit messages for me"
+### Right now
 
->>> NghiaLe().fun_fact
-'I built an MCP server that writes my commit messages for me'
+```text
+▸ Building RAG pipelines that read loan documents at Loan Factory
+▸ Orchestrating LLM agents as graphs with LangChain & LangGraph
+▸ Writing MCP servers — one of them writes my commit messages
 ```
 
 ---
 
-## What I Build
+## What I build
 
-- **RAG Pipelines** - Document understanding and information extraction for loan processing
-- **LLM Agent Systems** - Graph-based orchestration with LangChain & LangGraph
-- **AI Inference Services** - Async backend services with Flask & Celery, deployed on K8s
-- **MCP Tools** - Custom Model Context Protocol servers ([check mine](mcp/mcp_server.py))
-
----
-
-## Tech Stack
-
-<div align="center">
-
-**AI / ML**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-<img src="https://img.shields.io/badge/MCP-FF6B6B?style=for-the-badge&logo=anthropic&logoColor=white" alt="MCP" />
-
-**Backend & Database**
-
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-<img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-
-**DevOps & Cloud**
-
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery" />
-
-</div>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📄 RAG pipelines</h4>
+      Document understanding and information extraction for loan processing.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🕸️ LLM agent systems</h4>
+      Graph-based orchestration with LangChain and LangGraph, with explicit state management.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ AI inference services</h4>
+      Async backends with Flask and Celery, deployed on Kubernetes with Helm.
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔌 MCP tools</h4>
+      Custom Model Context Protocol servers. <a href="mcp/mcp_server.py">See mine →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## GitHub Stats
+## Experience
+
+| Where | Role | When |
+|---|---|---|
+| **Loan Factory** | Middle AI Engineer | Jul 2024 — now |
+| **Ninja Van Vietnam** | Data Scientist Intern | Nov 2023 — Jun 2024 |
+| **Industrial University of HCMC (IUH)** | B.Eng Data Science · GPA 3.66 / 4.00 | Oct 2020 — Jun 2025 |
+
+<sub>English: TOEIC 800</sub>
+
+---
+
+## Toolbox
+
+| | |
+|---|---|
+| **AI / ML** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white) ![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-D97757?style=flat-square&logo=anthropic&logoColor=white) |
+| **Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Helm](https://img.shields.io/badge/Helm-0F1689?style=flat-square&logo=helm&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
+
+---
+
+## GitHub at a glance
 
 <div align="center">
   <picture>
@@ -140,5 +139,6 @@ class NghiaLe:
 ---
 
 <div align="center">
+  <sub><code>commits on this repo are written by <a href="mcp/mcp_server.py">my own MCP server</a></code></sub>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 </div>
