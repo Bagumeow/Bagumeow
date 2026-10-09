@@ -85,14 +85,14 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=bagumeow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=f0f6fc" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=bagumeow&show_icons=true&theme=default&hide_border=true&title_color=7c3aed&icon_color=06b6d4" />
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=bagumeow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=f0f6fc" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=bagumeow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=f0f6fc" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=bagumeow&show_icons=true&theme=default&hide_border=true&title_color=7c3aed&icon_color=06b6d4" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=bagumeow&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=f0f6fc" alt="GitHub Stats" />
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bagumeow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=f0f6fc" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bagumeow&layout=compact&theme=default&hide_border=true&title_color=7c3aed" />
-    <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=bagumeow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=f0f6fc" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bagumeow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=f0f6fc" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bagumeow&layout=compact&theme=default&hide_border=true&title_color=7c3aed" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagumeow&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=f0f6fc" alt="Top Languages" />
   </picture>
 </div>
 
